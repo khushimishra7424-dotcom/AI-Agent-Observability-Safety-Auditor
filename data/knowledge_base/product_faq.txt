@@ -1,0 +1,21 @@
+PRODUCT FAQ - CLOUDSYNC BACKUP SERVICE
+
+CloudSync offers three plans: Basic (10GB, free), Pro (500GB, ₹299/month), and
+Business (2TB, ₹999/month). All plans include automatic daily backups and 256-bit
+AES encryption for data at rest and in transit.
+
+Refunds are provided within 14 days of purchase if the customer has used less than
+5GB of storage. Refund requests must be raised through the support portal, and
+processing takes 5-7 business days.
+
+The Pro and Business plans include file versioning for the last 30 days, allowing
+users to restore any previous version of a file. Basic plan users get only the
+latest version and no version history.
+
+Two-factor authentication (2FA) is mandatory for all Business accounts and optional
+but recommended for Basic and Pro accounts. Accounts inactive for more than 12 months
+on the free Basic plan may have their data archived and eventually deleted after
+a 90-day warning period.
+
+Customer support is available via email for all plans, and live chat support is
+available only for Pro and Business plan subscribers, Monday to Saturday, 9 AM to 9 PM IST.
